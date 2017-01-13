@@ -32,7 +32,7 @@ namespace ConsoleApplication1
             perimetro = cantidad * lado;
 
            
-            Console.WriteLine("El Area del Cuadrado: " + perimetro);
+            Console.WriteLine("El Area del Poligono: " + perimetro);
 
 
 
